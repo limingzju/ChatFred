@@ -4160,6 +4160,10 @@ Please refer to OpenAI's [safety best practices guide](https://platform.openai.c
 						<string>GPT-4 (32k)</string>
 						<string>gpt-4-32k</string>
 					</array>
+                    <array>
+                        <string>deepseek-chat</string>
+                        <string>deepseek-chat</string>
+                    </array>
 				</array>
 			</dict>
 			<key>description</key>
